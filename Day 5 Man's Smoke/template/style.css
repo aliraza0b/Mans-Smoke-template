@@ -213,6 +213,7 @@ bottom: 25px;
     border: none;
     background-color: white;
     color: black;
+    cursor: pointer;
 }
 .botn:hover{
     background-color: black;
